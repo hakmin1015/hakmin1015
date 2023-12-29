@@ -27,6 +27,7 @@
 <br/>
 <img src="https://img.shields.io/badge/AutoCAD-E51050?style=flat-square&logo=AutoCAD&logoColor=white"/>
 ![Static Badge](https://img.shields.io/badge/ECO2%20OD-green)
+<br/>
 ![Static Badge](https://img.shields.io/badge/Primavera%20P6-Primavera%20Risk%20Analysis-red)
 <br/>
 ### Office
