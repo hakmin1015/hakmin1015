@@ -17,6 +17,8 @@
 <br/>
 ![Static Badge](https://img.shields.io/badge/PSpice-blue)
 ![Static Badge](https://img.shields.io/badge/PSCAD-f7e600)
+![Static Badge](https://img.shields.io/badge/PSIM-003458)
+<br/>
 ![Static Badge](https://img.shields.io/badge/ECO2%20OD-green)
 ![Static Badge](https://img.shields.io/badge/Primavera%20P6-Primavera%20Risk%20Analysis-red)
 
