@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/Fortran-734F96?style=flat-square&logo=Fortran&logoColor=white"/> <img src="https://img.shields.io/badge/Scratch-4D97FF?style=flat-square&logo=Scratch&logoColor=white"/> <img src="https://img.shields.io/badge/AutoCAD-E51050?style=flat-square&logo=AutoCAD&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 
 ### 🔎 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hakmin1015)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hakmin1015&layout=compact)
 <br/>
 ![hakmin1015's GitHub stats](https://github-readme-stats.vercel.app/api?username=hakmin1015&show_icons=true&theme=default)
 
