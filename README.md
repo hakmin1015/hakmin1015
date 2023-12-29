@@ -8,3 +8,4 @@
 
 ![HAKMIN's GitHub stats](https://github-readme-stats.vercel.app/api?username=hakmin1015&show_icons=true&theme=default)
 
+[![Solved.ac hakmin1015](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
