@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=Venom&color=b2e39c&height=150&section=header&text=HAKMIN's_GitHub&fontColor=000000&fontSize=30&animation=fadeIn&fontAlignY=50)
+  ![header](https://capsule-render.vercel.app/api?type=Venom&color=b2e39c&height=150&section=header&text=HAKMIN's_GitHub&fontColor=000000&fontSize=30&animation=twinkling&fontAlignY=50)
 </div>
 
 ### 👋 Hi there!
