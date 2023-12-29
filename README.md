@@ -8,13 +8,13 @@
 
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Octave-0790C0?style=flat-square&logo=Octave&logoColor=white"/> <img src="https://img.shields.io/badge/Microsoft Excel-217346?style=flat-square&logo=Microsoft Excel&logoColor=white"/> <img src="https://img.shields.io/badge/Fortran-734F96?style=flat-square&logo=Fortran&logoColor=white"/> <img src="https://img.shields.io/badge/Scratch-4D97FF?style=flat-square&logo=Scratch&logoColor=white"/> <img src="https://img.shields.io/badge/AutoCAD-E51050?style=flat-square&logo=AutoCAD&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> 
 
-![hakmin1015's GitHub stats](https://github-readme-stats.vercel.app/api?username=hakmin1015&show_icons=true&theme=default)
+
 
 
 ### 🏅 Ranking
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hakmin1015)](https://solved.ac/hakmin1015)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hakmin1015)](https://solved.ac/hakmin1015)
 
 
 ###  GitHub Stats
+![hakmin1015's GitHub stats](https://github-readme-stats.vercel.app/api?username=hakmin1015&show_icons=true&theme=default)
