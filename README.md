@@ -1,24 +1,10 @@
-### Hi there 👋
+### 👋 Hi there!
 
-<!--
-**hakmin1015/hakmin1015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+안녕하세요, 제 GitHub에 방문하신 것을 환영합니다.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+### 💪 Skills
 
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Octave-0790C0?style=flat-square&logo=Octave&logoColor=white"/> <img src="https://img.shields.io/badge/Microsoft Excel-217346?style=flat-square&logo=Microsoft Excel&logoColor=white"/> <img src="https://img.shields.io/badge/Fortran-734F96?style=flat-square&logo=Fortran&logoColor=white"/> <img src="https://img.shields.io/badge/Scratch-4D97FF?style=flat-square&logo=Scratch&logoColor=white"/> <img src="https://img.shields.io/badge/AutoCAD-E51050?style=flat-square&logo=AutoCAD&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> 
 
-
-
-
 ![HAKMIN's GitHub stats](https://github-readme-stats.vercel.app/api?username=hakmin1015&show_icons=true&theme=default)
+
