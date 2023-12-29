@@ -14,4 +14,5 @@
 
 ### 🔎 GitHub Stats
 ![hakmin1015's GitHub stats](https://github-readme-stats.vercel.app/api?username=hakmin1015&show_icons=true&theme=default)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hakmin1015)]
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hakmin1015)
