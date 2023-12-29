@@ -10,5 +10,8 @@
 
 ![HAKMIN's GitHub stats](https://github-readme-stats.vercel.app/api?username=hakmin1015&show_icons=true&theme=default)
 
+
+### 🏅 Ranking
+
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={hakmin1015})](https://solved.ac/{hakmin1015})
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hakmin1015)](https://solved.ac/hakmin1015)
