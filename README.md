@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=Transparent&text=HAKMIN's_GitHub)
+  ![header](https://capsule-render.vercel.app/api?type=Venom&text=HAKMIN's_GitHub)
 </div>
 
 ### 👋 Hi there!
