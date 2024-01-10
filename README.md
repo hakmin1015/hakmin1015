@@ -34,7 +34,7 @@ Hello, welcome to my GitHub. I'm an undergraduate student majoring in Electrical
 <img src="https://img.shields.io/badge/Microsoft Word-2B579A?style=flat-square&logo=Microsoft Word&logoColor=white"/> <img src="https://img.shields.io/badge/Microsoft PowerPoint-B7472A?style=flat-square&logo=Microsoft PowerPoint&logoColor=white"/> <img src="https://img.shields.io/badge/Microsoft Excel-217346?style=flat-square&logo=Microsoft Excel&logoColor=white"/> <img src="https://img.shields.io/badge/Microsoft Access-A4373A?style=flat-square&logo=Microsoft Access&logoColor=white"/>
 
 ## 📌 Keywords of interest
-'#PowerElectronics '#Inverter '#Converter '#Harmonics '#PowerQuality
+#PowerElectronics #Inverter #Converter #Harmonics #PowerQuality
 
 ## 🔎 GitHub Stats
 <p>
