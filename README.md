@@ -8,7 +8,8 @@
 ## 👋 Welcome
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhakmin1015&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visited&edge_flat=false"/></a>
 <br/>
-Hello, welcome to my GitHub. I'm an undergraduate student majoring in Electrical & Electronic Engineering. Also, I'm an undergraduate intern in the Smart Grid Laboratory of Yonsei University.
+Hello, welcome to my GitHub. I'm an undergraduate student majoring in Electrical & Electronic Engineering.
+Also, I'm an undergraduate intern in the Smart Grid Laboratory of Yonsei University.
 
 ## 💪 Skills
 ### Languages & Platforms
