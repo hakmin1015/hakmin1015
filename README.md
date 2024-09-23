@@ -13,7 +13,7 @@ Also, I'm an undergraduate intern at the Smart Grid Laboratory of Yonsei Univers
 
 ## 💪 Skills
 ### Languages & Platforms
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/> ![Static Badge](https://img.shields.io/badge/MATLAB&SIMULINK-8A2BE2) <img src="https://img.shields.io/badge/Octave-0790C0?style=flat-square&logo=Octave&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/> ![Static Badge](https://img.shields.io/badge/MATLAB%20&%20SIMULINK-8A2BE2) <img src="https://img.shields.io/badge/Octave-0790C0?style=flat-square&logo=Octave&logoColor=white"/>
 <br/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=NumPy&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white"/>
 <br/>
